@@ -1,1 +1,2 @@
-# project-1
+# FUN
+Repo for interesting stuffs & expts 😉
