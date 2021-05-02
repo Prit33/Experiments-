@@ -1,2 +1,2 @@
 Scrolling Page Diagonally
-https://prit33.github.io/Projects/Scroller/Scoller.html
+https://prit33.github.io/Experiments--0/Scroller/Scoller.html
