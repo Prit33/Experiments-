@@ -1,7 +1,7 @@
 var points={x:0,y:0,d:1};
 var col={r:0,g:0,b:0};
 function setup() {
-  createCanvas(1500, 750);
+  createCanvas(1500, 1000);
   background(0);
 }
 
