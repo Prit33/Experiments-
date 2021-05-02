@@ -1,30 +1,18 @@
-var points={x:0,y:0,d:1};
-var col={r:0,g:0,b:0};
-function setup() {
-  createCanvas(1500, 750);
-  background(0);
-}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-function draw() {
-  col.r=random(0,255);
-  col.g=random(0,50);
-  col.b=random(20,255);
+    <title>Random</title>
 
-  points.x=random(0,width);
-  points.y=random(0,height);
-  points.d=random(2,75);
+    <link rel="stylesheet" type="text/css" href="random.css">
 
-  // if(points.x >=683)
-  // {
-  //   fill(col.r,col.g,col.b,200);
-  //   noStroke();
-  //   ellipse(points.x,points.y,points.a,points.a);
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.sound.min.js"></script>
+  </head>
 
-  // }
-  // else{
-
-  fill(col.r,col.g,col.b,1000);
-  noStroke();
-  ellipse(points.x,points.y,points.d,points.d)
-  
-}
+  <body>
+    <script src="random.js"></script>
+  </body>
+</html>
