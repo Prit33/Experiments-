@@ -1,2 +1,2 @@
 # FUN
-Repo for my weird expts 😉
+Repo for my weird expts 🙃 
