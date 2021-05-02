@@ -1,2 +1,2 @@
 First JS expt. 😅
-https://prit33.github.io/Projects/BouncingBall/BouncingBall.html
+https://prit33.github.io/Experiments--0/BouncingBall/BouncingBall.html
